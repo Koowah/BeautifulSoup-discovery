@@ -1,7 +1,9 @@
 # BeautifulSoup-discovery
 Simple scrapping on python w/ BeautifulSoup &amp; requests + MultiThreading
 
-The "final" code is in Craigslist Multi-threading.ipynb
+
+
+The "final" code is in ***Craigslist Multi-threading.ipynb***
 I left the other files for those who'd wish to witness my progression and thought process.
 
 This is my first time dabbling with scraping etc. I watched an introductory 25 minutes worth of videos from Udemy's "Learn Web Scraping with Python from Scratch" free course.
