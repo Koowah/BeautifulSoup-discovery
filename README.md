@@ -13,3 +13,6 @@ https://beckernick.github.io/faster-web-scraping-python/
 I was so amazed by the ease of implementation of multithreading in python that it begged the question of why this wasn't in the course, or in any regular YTB scraping w/ Bs4 course ..
 
 As soon as my schedule allows me to, i'll pursue experimenting with BeautifulSoup, write a decent readme and try to make the whole thing somewhat pedagogical :D
+
+
+PS : Craigslist's server blocked me haha
